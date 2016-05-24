@@ -82,6 +82,8 @@ Here are some issues that we would love to see contributions for:
 <a name="installation" />
 ## Installation
 
+[![asciicast](https://asciinema.org/a/8mqwrrjvh47plh5yzoubolkkl.png)](https://asciinema.org/a/8mqwrrjvh47plh5yzoubolkkl)
+
 <a name="cloning-the-repository" />
 ### Cloning the Repository
 
